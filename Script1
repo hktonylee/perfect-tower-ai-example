@@ -1,0 +1,6 @@
+:import [Library]
+
+key.p()
+
+click(position())
+goto({double(0)})
